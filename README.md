@@ -33,4 +33,16 @@ Pode __*misturar*__ configurações
 
 [Acesse meu GitHub](https://github.com/marianamtd)
 
-oi
+*__Tabela__*
+---
+Num | Nome | Nota
+---|---|---|
+1| Mariana | 9.5 
+2| Luiza | 9.3 
+3| Saulo | 9.0 
+4| Lucas | 8.6 
+
+**~~Comandos~~**
+---
+1. Exemplos:
+   1. **Não entendendo** direito para que serve o comando `document.getElementByld()` da linguagem *JavaScript*
