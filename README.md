@@ -32,3 +32,5 @@ Pode __*misturar*__ configurações
 - [x] Terminar o curso de **_Big Data_**
 
 [Acesse meu GitHub](https://github.com/marianamtd)
+
+oi
