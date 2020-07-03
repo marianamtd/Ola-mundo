@@ -31,4 +31,4 @@ Pode __*misturar*__ configurações
 - [ ] Terminar os exercícios de **Python**
 - [x] Terminar o curso de **_Big Data_**
 
-[Acesse meu GitHub](https;//marianamtd.github.io)
+[Acesse meu GitHub](https://marianamtd.github.io)
