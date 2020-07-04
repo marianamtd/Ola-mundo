@@ -1,4 +1,4 @@
-# Olá, Mundo! 
+# Olá, Mundo! 🖖
 
  Primeiro repositório do curso de **Git** e **GitHub** 
 
@@ -25,7 +25,7 @@
    * Teste
    * Teste
 
-~~Lista de Tarefas:~~
+### ~~Lista de Tarefas:~~
 ---
 - [ ] **Criar a página principal**
 - [ ] Terminar os exercícios de **Python**
@@ -33,7 +33,7 @@
 
 [Acesse meu GitHub](https://github.com/marianamtd)
 
-*__Tabela__*
+### *__Tabela__*
 ---
 Num | Nome | Nota
 ---|---|---|
@@ -42,7 +42,7 @@ Num | Nome | Nota
 3| Saulo | 9.0 
 4| Lucas | 8.6 
 
-**~~Comandos~~**
+### **~~Comandos~~**
 ---
 1. Exemplos:
    1. **Não entendendo** direito para que serve o comando `document.getElementByld()` da linguagem *JavaScript*
@@ -56,7 +56,13 @@ if num % 2 = 0:
 else:
     print(f'O valor {num} é ÍMPAR')    
 ```
-**Emojis**
+### **Emojis**
 ---
 1. Exemplo:
    1. Olá, pequeno Gafanhoto :vulcan_salute 🖖
+
+### __*Citações*__
+---
+1. Exemplo:
+> "Pode ir, tudo bem, mas se for voltar, não espere que eu seja a mesma pessoa." - O Pequeno Príncipe 
+
