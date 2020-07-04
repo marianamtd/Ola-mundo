@@ -46,3 +46,15 @@ Num | Nome | Nota
 ---
 1. Exemplos:
    1. **Não entendendo** direito para que serve o comando `document.getElementByld()` da linguagem *JavaScript*
+
+   1. Olha meu programa em Python
+```
+
+num = int(input('Digite um valor:'))
+if num % 2 = 0:
+    print(f'O valor {num} é PAR')
+else:
+    print(f'O valor {num} é ÍMPAR')    
+```
+   
+   
