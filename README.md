@@ -6,11 +6,11 @@
 
 **Essa linha eu adicionei diretamente no site!**
 
-Estou aprendendo a linguagem ~~Markdown~~ no Curso em Vídeo
+## Guia da Linguagem Markdown
 
-Pode __*misturar*__ configurações
+É possível __*misturar*__ configurações
 
-**Lista numerada:**
+### **Lista numerada:**
 ---
 1. Teste
 1. Teste 2
@@ -19,7 +19,7 @@ Pode __*misturar*__ configurações
 1. Teste 3
 1. Teste 4
 
-*Lista demarcada:*
+### *Lista demarcada:*
 ---
 * Teste
    * Teste
