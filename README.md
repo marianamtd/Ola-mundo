@@ -59,4 +59,4 @@ else:
 **Emojis**
 ---
 1. Exemplo:
-   1. Olá, pequeno Gafanhoto :vulcan_salute
+   1. Olá, pequeno Gafanhoto :vulcan_salute 🖖
