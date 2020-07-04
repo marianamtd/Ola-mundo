@@ -56,5 +56,7 @@ if num % 2 = 0:
 else:
     print(f'O valor {num} é ÍMPAR')    
 ```
-   
-   
+**Emojis**
+---
+1. Exemplo:
+   1. Olá, pequeno Gafanhoto :vulcan_salute
